@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there, I'm Abdulla N Thaj 👋
 
-<!--
-**abdullathaj/abdullathaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate **Python developer** with a strong focus on **Django** for backend and **React** for frontend development.  
+🎯 I love building practical applications that solve real-world problems, especially in e-commerce and healthcare.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects
+- 🛒 **E-commerce Website** – Built a fully functional shopping platform with product listings, cart, and payment gateway integration.
+- 🏥 **Hospital Management System** – Designed an admin panel to manage patients, doctors, appointments, and billing.
+
+---
+
+### 🛠 Tech Stack
+- 💻 **Languages**: Python, JavaScript, HTML, CSS  
+- 🌐 **Frameworks**: Django, React  
+- 🛢 **Databases**: PostgreSQL, MongoDB  
+- ⚙️ **Tools**: Git, GitHub, VS Code, Postman  
+- 🧪 **Testing**: Unit Testing, Django Test Framework
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
+- 🐍 [PythonAnywhere / Portfolio](https://your-portfolio-link.com)
+- 📧 Email: your.email@example.com
+
+---
+
+### ⚡ Fun Fact
+> I gave a talk on **Ada Lovelace Day** celebrating women in STEM! 🧠💡  
+> I’m always curious about how things work behind the scenes, and I enjoy debugging just as much as building!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
